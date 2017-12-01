@@ -1,3 +1,7 @@
+*.pyc
+.cache/*
+.tox/*
+
 # JetBrains project files
 .idea
 *.iml
