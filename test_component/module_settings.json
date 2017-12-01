@@ -1,0 +1,17 @@
+{
+  "module_name": "engine_vibration_component",
+  "modules":
+  {
+    "engine_vibration_component":
+    {
+      "version": "0.0.1",
+
+      "products":
+      {
+        "python/engine_vibration_proxy.py": "proxy_module"
+      },
+
+      "domain": "main"
+    }
+  }
+}
